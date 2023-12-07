@@ -1,3 +1,11 @@
+MainDevFolderGit/pythondev/fastApi100/venv
+MainDevFolderGit/pythondev/fastApi100/winvenv
+
+MainDevFolderGit/pythondev/UdemyProjs/pyCourse100/venv
+MainDevFolderGit/pythondev/UdemyProjs/pyCourse100/winvenv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,6 +135,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+.winvenv
+winvenv/
+
 
 # Spyder project settings
 .spyderproject
